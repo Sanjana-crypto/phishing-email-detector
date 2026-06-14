@@ -96,6 +96,15 @@ Phishing emails are a primary vector for social engineering attacks, credential 
 
 ---
 
-## 📷 Demo Screenshot
 
-*(Add your app screenshot here)*
+
+## 📷 Demo Screenshots
+
+### ✅ Safe Email
+![Safe Email](Safe%20Email.png)
+
+### ⚠️ Suspicious Email - Medium Risk
+![Suspicious Email](Suspicious%20Email.png)
+
+### 🚨 High Risk Phishing Email
+![High Risk Email](High%20risk%20Email.png)
